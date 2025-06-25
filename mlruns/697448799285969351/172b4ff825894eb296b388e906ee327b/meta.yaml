@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pouru/OneDrive/Desktop/Projects/mlops-windt-project/mlruns/697448799285969351/172b4ff825894eb296b388e906ee327b/artifacts
+end_time: 1750828197199
+entry_point_name: ''
+experiment_id: '697448799285969351'
+lifecycle_stage: active
+run_id: 172b4ff825894eb296b388e906ee327b
+run_name: industrious-stag-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750828197038
+status: 4
+tags: []
+user_id: pouru

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pouru/OneDrive/Desktop/Projects/mlops-windt-project/mlruns/697448799285969351/01672a87ea43476983852091cd7d22ce/artifacts
+end_time: 1750828259568
+entry_point_name: ''
+experiment_id: '697448799285969351'
+lifecycle_stage: active
+run_id: 01672a87ea43476983852091cd7d22ce
+run_name: classy-squid-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750828252784
+status: 3
+tags: []
+user_id: pouru

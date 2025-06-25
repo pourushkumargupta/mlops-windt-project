@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pouru/OneDrive/Desktop/Projects/mlops-windt-project/mlruns/697448799285969351/f39291ed566a49ca86df8ece7122cc2b/artifacts
+end_time: 1750827923050
+entry_point_name: ''
+experiment_id: '697448799285969351'
+lifecycle_stage: active
+run_id: f39291ed566a49ca86df8ece7122cc2b
+run_name: clean-foal-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750827916999
+status: 3
+tags: []
+user_id: pouru

@@ -1,0 +1,41 @@
+artifact_path: file:///C:/Users/pouru/OneDrive/Desktop/Projects/mlops-windt-project/mlruns/697448799285969351/models/m-cc9c3352e8f045b98217f3a128dc840b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-cc9c3352e8f045b98217f3a128dc840b
+model_size_bytes: 1792
+model_uuid: m-cc9c3352e8f045b98217f3a128dc840b
+prompts: null
+run_id: 01672a87ea43476983852091cd7d22ce
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Nacelle_Position", "required": true}, {"type":
+    "double", "name": "Wind_direction", "required": true}, {"type": "double", "name":
+    "Ambient_Air_temp", "required": true}, {"type": "double", "name": "Bearing_Temp",
+    "required": true}, {"type": "double", "name": "BladePitchAngle", "required": true},
+    {"type": "double", "name": "GearBoxSumpTemp", "required": true}, {"type": "double",
+    "name": "Generator_Speed", "required": true}, {"type": "long", "name": "Hub_Speed",
+    "required": true}, {"type": "double", "name": "Wind_Speed", "required": true},
+    {"type": "double", "name": "GearTemp", "required": true}, {"type": "double", "name":
+    "GeneratorTemp", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-25 05:10:53.156866'

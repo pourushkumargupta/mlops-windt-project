@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/pouru/OneDrive/Desktop/Projects/mlops-windt-project/mlruns/697448799285969351/models/m-cc9c3352e8f045b98217f3a128dc840b/artifacts
+creation_timestamp: 1750828253074
+experiment_id: '697448799285969351'
+last_updated_timestamp: 1750828259544
+model_id: m-cc9c3352e8f045b98217f3a128dc840b
+model_type: null
+name: linear_regression_model
+source_run_id: 01672a87ea43476983852091cd7d22ce
+status: 2
+status_message: null
