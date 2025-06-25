@@ -39,7 +39,7 @@ git add .
 git commit -m "Initial project structure and dataset added"
 git push origin main
 
-![Folder Structure](images/folder-structure.png)
+![Folder Structure](images/Folder_Structure.png)
 
 ### To create new environment
 ```bash
