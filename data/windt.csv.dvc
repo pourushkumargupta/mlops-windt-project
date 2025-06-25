@@ -1,0 +1,5 @@
+outs:
+- md5: a2adb1acfe5505abe68ea243bb10adc3
+  size: 7974900
+  hash: md5
+  path: windt.csv

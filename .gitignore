@@ -1,1 +1,7 @@
+
+# Ignore the virtual environment
 windt_pro
+
+
+# Ignore the dataset
+data/windt.csv
