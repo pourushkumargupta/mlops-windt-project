@@ -7,6 +7,9 @@ import mlflow
 import mlflow.sklearn
 from math import sqrt
 
+# ✅ Set safe tracking URI for CI/CD
+mlflow.set_tracking_uri("file:./mlruns")
+
 # Start MLflow experiment
 mlflow.set_experiment("Wind Speed Prediction")
 
